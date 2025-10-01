@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guessing Game</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <div class="game">
+    <h1 class="game__title"><i class="fa-solid fa-dice"></i> GUESSING GAME</h1>
+    <button class="game__reset"><i class="fa-solid fa-rotate-right"></i> Reset Game</button><br>
+    <img class="game__intro-gif" src="assets/images/think_it.gif" alt="intro gif" /> 
+    <h3 class="game__welcome">Welcome! I'm thinking of a number (1-100), can you guess it?</h3>
+    <input class="game__input" type="number" placeholder="??" min="1" max="100" />
+    <button class="game__submit">GUESS</button><br>
+    <h4 class="game__message">LET'S PLAY</h4>
+    <h5 class="game__hint"></h5> 
+    <img class="game__gif" src="" alt="">
+    <p class="game__guesses"></p>
+  </div>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
