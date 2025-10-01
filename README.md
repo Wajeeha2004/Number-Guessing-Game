@@ -1,8 +1,8 @@
-🎲 Number Guessing Game
+## 🎲 **Number Guessing Game**
 
 A simple and interactive web-based Number Guessing Game built with HTML, CSS, and JavaScript. Guess the randomly generated number (between 1 and 100).
 
-🛠 Features
+### 🛠 **Features**
 
 1. Generates a random number between 1 and 100 each time the game starts or resets.
 
@@ -26,7 +26,7 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
 
 5. Responsive design for desktop, tablet, and mobile devices.
 
-⚡ Technologies Used
+### ⚡ **Technologies Used**
 
 HTML5 – Structure of the game.
 
