@@ -33,3 +33,6 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
  2. CSS3 – Styling and responsive layout.
 
  3. JavaScript – Game logic, random number generation, input validation, and dynamic DOM updates.
+
+## 🔗 **Live Preview**
+👉 [Play the Game Here](https://number-guessing-game-2025.netlify.app/)
