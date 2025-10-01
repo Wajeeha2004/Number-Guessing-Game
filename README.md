@@ -4,7 +4,6 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
 
 ### 🛠 **Features**
 
-
 1. Generates a random number between 1 and 100 each time the game starts or resets.
 
 2. Users can input their guesses using a number field.
@@ -29,9 +28,8 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
 
 ### ⚡ **Technologies Used**
 
+ 1. HTML5 – Structure of the game.
 
-HTML5 – Structure of the game.
+ 2. CSS3 – Styling and responsive layout.
 
-CSS3 – Styling and responsive layout.
-
-JavaScript – Game logic, random number generation, input validation, and dynamic DOM updates.
+ 3. JavaScript – Game logic, random number generation, input validation, and dynamic DOM updates.
